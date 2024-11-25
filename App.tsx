@@ -8,7 +8,7 @@ import {
   TouchableOpacity,
   View,
 } from 'react-native';
-
+/***/
 function App(): React.JSX.Element {
   const [number, setNumber] = useState(0); // State to store the number
   const [number1, setNumber1] = useState("0");
